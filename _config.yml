@@ -18,9 +18,9 @@ email: 'kvc750@gmail.com'
 description: "I'm a software engineer and Computer Science M.S. student from Florida creating questionably useful things for the web."
 baseurl: "/katwuzhere.github.io" # the subpath of your site, e.g. /blog
 url: "https://katwuzhere.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'soupadeveloper'
+# twitter_username: ''
 github_username: 'katarina-vc'
-medium_username: 'blog.jamigibbs.com'
+# medium_username: 'blog.katarina-vc.com'
 
 # Build settings
 markdown: kramdown
@@ -89,10 +89,10 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
-enable_contact: false
+# footer_text: '© 2018'
+# admin_name: ''
+# google_analytics: "UA-9999999-99" # Update with your own tracking ID
+# enable_contact: false
 
 #### Phantom Navigation menu
 enable_nav: true
